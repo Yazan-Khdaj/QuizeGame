@@ -1,2 +1,2 @@
-#Quize Game
-##Simple Game By Python
+# Quize Game
+## Simple Game By Python
